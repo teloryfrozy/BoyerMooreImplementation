@@ -1,6 +1,6 @@
 # 🚧 Project Disclaimer
 
-Please note that this project was completed during high school and is presented in its original French language format.
+🇫🇷 Please note that this project was completed during high school and is presented in its original French language format.
 
 # 🔍 Project Overview
 
